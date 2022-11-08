@@ -1,0 +1,1 @@
+export default 'https://spellbookdemo.herokuapp.com';

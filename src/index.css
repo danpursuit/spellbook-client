@@ -1,0 +1,10 @@
+body {
+  background-image: url("./images/bg.png");
+  height: 100vh;
+  margin: 0;
+  min-width: 900px;
+}
+
+#root {
+  height: 100%;
+}
